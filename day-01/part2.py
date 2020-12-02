@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2020 Pablo Jiménez Pascual <pablo@jimpas.me>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 """
 Find three numbers in a given file that sum another number, print their product
 """

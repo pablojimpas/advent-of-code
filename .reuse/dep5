@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: advent-of-code-2020
+Upstream-Contact: Pablo Jiménez Pascual <pablo@jimpas.me>
+Source: https://github.com/pablojimpas/advent-of-code-2020
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
